@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Sass BEM",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "bwasilewski",
+    "githubRepository": "SassBEM"
+  }
+}
