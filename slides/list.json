@@ -1,1 +1,12 @@
-["index.md"]
+[
+    "index.md",
+    "what-is-bem.md",
+    "block.md",
+    "block-example.md",
+    "element.md",
+    "element-example.md",
+    "modifier.md",
+    "modifier-example.md",
+    "modifier-example-2.md",
+    "modifier-example-3.md"
+]
