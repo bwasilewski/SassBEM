@@ -1,3 +1,9 @@
 ##  Modifiers
 
-![Example Modifier](https://raw.githubusercontent.com/bwasilewski/SassBEM/master/img/site-footer-menu.png "Example Modifier")
+State
+
+![State Modifier](https://raw.githubusercontent.com/bwasilewski/SassBEM/master/img/menu-current-item.png "State Modifier")
+
+Theme
+
+![Theme Modifier](https://raw.githubusercontent.com/bwasilewski/SassBEM/master/img/search-background.png "Theme Modifier")
