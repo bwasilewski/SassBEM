@@ -2,4 +2,4 @@
 
 Location
 
-![Location Modifier](img/site-footer-menu.png "Location Modifier")
+![Location Modifier](/img/site-footer-menu.png "Location Modifier")
