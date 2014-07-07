@@ -2,8 +2,8 @@
 
 State
 
-![State Modifier](/img/menu-current-item.png "State Modifier")
+![State Modifier](https://raw.githubusercontent.com/bwasilewski/SassBEM/master/img/menu-current-item.png "State Modifier")
 
 Theme
 
-![Theme Modifier](/img/search-background.png "Theme Modifier")
+![Theme Modifier](https://raw.githubusercontent.com/bwasilewski/SassBEM/master/img/search-background.png "Theme Modifier")
