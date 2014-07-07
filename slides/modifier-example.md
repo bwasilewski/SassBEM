@@ -1,3 +1,3 @@
 ##  Modifiers
 
-![Example Modifier](img/site-footer-menu.png "Example Modifier")
+![Example Modifier](https://raw.githubusercontent.com/bwasilewski/SassBEM/master/img/site-footer-menu.png "Example Modifier")
