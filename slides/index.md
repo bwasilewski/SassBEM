@@ -1,5 +1,5 @@
 
-# Sass BEM
+# Sass B.E.M.
 
 A presentation by Benjamin Wasilewski
 

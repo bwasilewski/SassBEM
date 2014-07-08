@@ -1,8 +1,13 @@
 ## Modifiers
 
-### State
+### Theme
 
-![State Modifier](https://raw.githubusercontent.com/bwasilewski/SassBEM/master/img/menu-current-item.png "State Modifier")
+![Theme Modifier](https://raw.githubusercontent.com/bwasilewski/SassBEM/master/img/search-background.png "Theme Modifier")
+
+```css
+/* Search Block Modifier */
+.search--secondary { }
+```
 
 <aside class="notes">
     <ul>

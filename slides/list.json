@@ -1,16 +1,17 @@
 [
     "index.md",
+    "beefin.md",
+    "bem.md",
     "what-is-bem.md",
+    "what-is-bem-2.md",
+    "purpose.md",
+    "site-diagram.md",
+    "example.md",
     "block.md",
     "element.md",
     "modifier-1.md",
     "modifier-2.md",
     "modifier-3.md",
-    "learn-more.md",
-    {
-        "attr": {
-            "data-background": "http://example.com/image.png"
-        }
-    },
-    "example.md"
+    "placeholder-selectors.md",
+    "learn-more.md"
 ]

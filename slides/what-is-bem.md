@@ -1,4 +1,5 @@
-##  What is BEM?
+## Block, Element, Modifier
 
-* Been around since ~2012
-* Personally haven't seen any adoption among the community
+created by [Yandex](http://bem.info/) in 2012
+
+

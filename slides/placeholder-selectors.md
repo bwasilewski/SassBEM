@@ -1,0 +1,21 @@
+## Placeholder Selectors
+
+Sass selectors that only compile if extended.
+
+Inherit styles from a "silent" selector. Override as necessary.
+
+```css
+%nav {
+    display: block;
+    position: absolute;
+}
+
+.nav--primary,
+.nav--secondary {
+    @extend %nav;
+}
+
+.nav-secondary {
+    display: inline-block;
+}
+```

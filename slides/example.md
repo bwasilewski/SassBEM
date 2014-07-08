@@ -1,11 +1,12 @@
-##  Example
+## The Syntax
 
 ```css
-/*
- * Navigation Block
- */
+/* Search Block */
+.search { }
 
-.nav {
+/* Search Element */
+.search__field { }
 
-}
+/* Search Block Modifier */
+.search--primary { }
 ```

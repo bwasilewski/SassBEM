@@ -1,7 +1,7 @@
 ##  Learn More
 
-This is a new Markdown slide
+http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/
 
-note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+http://ianstormtaylor.com/oocss-plus-sass-is-the-best-way-to-css/
+
+http://csswizardry.com/2014/01/extending-silent-classes-in-sass/
