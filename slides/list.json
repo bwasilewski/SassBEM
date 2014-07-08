@@ -2,10 +2,15 @@
     "index.md",
     "what-is-bem.md",
     "block.md",
-    "block-example.md",
     "element.md",
-    "element-example.md",
-    "modifier.md",
-    "modifier-example.md",
-    "modifier-example-2.md"
+    "modifier-1.md",
+    "modifier-2.md",
+    "modifier-3.md",
+    "learn-more.md",
+    {
+        "attr": {
+            "data-background": "http://example.com/image.png"
+        }
+    },
+    "example.md"
 ]
