@@ -10,5 +10,6 @@
 <aside class="notes">
     <ul>
         <li>Modified version of a block</li>
+        <li>Modifies the state</li>
     </ul>
 </aside>

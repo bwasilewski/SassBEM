@@ -5,5 +5,6 @@
 <aside class="notes">
     <ul>
         <li>Modified version of a block</li>
+        <li>Modifies the location</li>
     </ul>
 </aside>

@@ -19,3 +19,11 @@ Inherit styles from a "silent" selector. Override as necessary.
     display: inline-block;
 }
 ```
+
+<aside class="notes">
+    <ul>
+        <li>Disclaimer: this is only MY approach - there are others</li>
+        <li>Use placeholder ("silent") selectors</li>
+        <li>Not compiled unless extended by another selector</li>
+    </ul>
+</aside>
