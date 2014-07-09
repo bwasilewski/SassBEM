@@ -1,8 +1,8 @@
 
-# Sass B.E.M.
+# SASS
+## Block Element Modifier
 
-A presentation by Benjamin Wasilewski
+Ben Wasilewski
 
-* [@callmebeewee](http://www.twitter.com/callmebeewee)
 * [benwas.com](http://www.benwas.com)
 
