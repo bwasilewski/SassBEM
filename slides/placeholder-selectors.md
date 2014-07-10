@@ -15,7 +15,8 @@ Inherit styles from a "silent" selector. Override as necessary.
     @extend %nav;
 }
 
-.nav-secondary {
+// override the inherited style
+.nav--secondary {
     display: inline-block;
 }
 ```
